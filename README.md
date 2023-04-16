@@ -2,6 +2,8 @@
 
 A simple simulation of Doom Fire effect in Pygame.
 
+View my Javascript version using Pixi.js [here](https://github.com/ryanzola/javascript-doom-fire)
+
 ## Installation
 
 Clone the repository and install the required packages using pip:
@@ -21,3 +23,7 @@ python main.py
 ```
 
 Press ESC key to exit the simulation.
+
+## Acknowledgments
+
+This is based on the [Doom Fire Algorithm](https://fabiensanglard.net/doom_fire_psx/) by Fabien Sanglard.
